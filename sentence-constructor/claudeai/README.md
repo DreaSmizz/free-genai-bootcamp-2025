@@ -2,7 +2,7 @@
 
 ### Which Model
 
-Claude Sonnet.
+Claude Sonnet 3.5.
 
 I am using the free version of Claude, therefore my results might be limited.
 

@@ -1,0 +1,61 @@
+<sentence_structure>
+    <instructions>
+        <instruction>Do not provide particles in the sentence structure.</instruction>
+        <instruction>Do not provide tenses or conjugations in the sentence structure.</instruction>
+        <instruction>Remember to consider beginner level sentence structure.</instruction>
+    </instructions>
+    <examples>
+        <example>
+            <english>The raven is looking at the garden.</english>
+            <structure>[Subject] [Object] [Verb] [Location]</structure>
+        </example>
+        <example>
+            <english>I read a book at home.</english>
+            <structure>[Subject] [Object] [Verb] [Location]</structure>
+        </example>
+        <example>
+            <english>I drink coffee in the morning.</english>
+            <structure>[Subject] [Object] [Verb] [Location]</structure>
+        </example>
+        <example>
+            <english>Do you study Japanese at school?</english>
+            <structure>[Subject] [Object] [Verb] [Location]?</structure>
+        </example>
+        <example>
+            <english>I watched a movie at the theater.</english>
+            <structure>[Subject] [Object] [Verb] [Location]</structure>
+        </example>
+        <example>
+            <english>He is watching TV in the living room.</english>
+            <structure>[Subject] [Object] [Verb] [Location]</structure>
+        </example>
+        <example>
+            <english>I gave my friend a present on their birthday.</english>
+            <structure>[Subject] [Object] [Verb] [Location]</structure>
+        </example>
+        <example>
+            <english>I received a present from my friend on Christmas.</english>
+            <structure>[Subject] [Object] [Verb] [Location]</structure>
+        </example>
+        <example>
+            <english>I want a new book at the bookstore.</english>
+            <structure>[Subject] [Object] [Verb] [Location]</structure>
+        </example>
+        <example>
+            <english>I want to go to Japan next year.</english>
+            <structure>[Subject] [Object] [Verb] [Location]</structure>
+        </example>
+        <example>
+            <english>I ate breakfast at home, and then I went to school.</english>
+            <structure>[Subject] [Object] [Verb] [Location], [Subject] [Verb] [Location]</structure>
+        </example>
+        <example>
+            <english>I wanted to go on a trip in the summer, but I was busy.</english>
+            <structure>[Subject] [Object] [Verb] [Location], but [Subject] [Adjective]</structure>
+        </example>
+        <example>
+            <english>I wore a coat because it was cold.</english>
+            <structure>[Subject] [Object] [Verb] [Reason]</structure>
+        </example>
+    </examples>
+</sentence_structure>
