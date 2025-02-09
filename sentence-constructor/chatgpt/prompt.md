@@ -27,6 +27,8 @@ The formatted output will contain three parts:
 - The table should only include nouns, verbs, adverbs, and adjectives.
 - Do not provide particles in the vocabulary table, student needs to figure the correct particles to use.
 - The table of vocabulary should only have the following columns: Japanese, Romaji, English.
+- Ensure no words are repeating, for example the word miru, only show it once in the table.
+- If there is more than one version of the word, show the most common form as this is aimed at beginners.
 
 ### Sentence Structure
 - Do not provide particles in the sentence structure.
