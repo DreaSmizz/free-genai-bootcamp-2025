@@ -29,6 +29,23 @@ The formatted output will contain three parts:
 
 ### Sentence Structure
 - Do not provide particles in the sentence structure.
+- Do not provide tenses or conjugations in the sentence structure.
+- Remember to consider beginner level sentence structure.
+Here is an example of simple sentence structures.
+1. **The raven is looking at the garden.** → [Subject] [Object] [Verb] [Location]  
+2. **I read a book at home.** → [Subject] [Object] [Verb] [Location]  
+3. **I drink coffee in the morning.** → [Subject] [Object] [Verb] [Location]  
+4. **Do you study Japanese at school?** → [Subject] [Object] [Verb] [Location]?  
+5. **I watched a movie at the theater.** → [Subject] [Object] [Verb] [Location]  
+6. **He is watching TV in the living room.** → [Subject] [Object] [Verb] [Location]  
+7. **I gave my friend a present on their birthday.** → [Subject] [Object] [Verb] [Location]  
+8. **I received a present from my friend on Christmas.** → [Subject] [Object] [Verb] [Location]  
+9. **I want a new book at the bookstore.** → [Subject] [Object] [Verb] [Location]  
+10. **I want to go to Japan next year.** → [Subject] [Object] [Verb] [Location]  
+11. **I ate breakfast at home, and then I went to school.** → [Subject] [Object] [Verb] [Location], [Subject] [Verb] [Location]  
+12. **I wanted to go on a trip in the summer, but I was busy.** → [Subject] [Object] [Verb] [Location], but [Subject] [Adjective]  
+13. **I wore a coat because it was cold.** → [Subject] [Object] [Verb] [Reason]  
+
 
 ### Clues and Considerations
 - Try and provide a non-nested bulleted list.
