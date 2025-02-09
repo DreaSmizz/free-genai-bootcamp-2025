@@ -14,6 +14,7 @@ Beginner, JLPT5
 - Please include the Japanese symbols.
 - Provide a possible sentence structure.
 - Do not use romaji when showing japanese. 
+- When the student makes an attempt, interpret their reading so they can see exactly what they said.
 
 ## Formatting Instructions
 
