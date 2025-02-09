@@ -93,5 +93,9 @@ When the input sounds like a question about language learning we can assume the 
 - Talk about the vocabulary but try to leave out the Japanese words because the student can refer to the vocabulary table.
 - Reference the <file>considerations-examples.xml</file> for good consideration examples
 
+## Teacher Tests
+
+Please read this file so you can see more examples to provide better output
+<file>japanese-teaching-test.md</file>
 
 Student Input: Did you see the raven this morning?  They were looking at our graden.
